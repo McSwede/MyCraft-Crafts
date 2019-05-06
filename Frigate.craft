@@ -181,6 +181,7 @@ allowedBlocks:
     - REPEATER
     - REDSTONE_TORCH
     - REDSTONE_WALL_TORCH
+    - REDSTONE_LAMP
     - STICKY_PISTON
     - TRIPWIRE_HOOK
     - SLIME_BLOCK
@@ -199,6 +200,7 @@ allowedBlocks:
     - JUNGLE_STAIRS
     - OAK_STAIRS
     - SPRUCE_STAIRS
+    - DARK_OAK_STAIRS
     #storage
     - CHEST
     - DROPPER
@@ -293,7 +295,7 @@ allowedBlocks:
     - RED_CONCRETE
 
 forbiddenBlocks:
-    - OBSIDIAN
+    - NETHER_WART_BLOCK
 canCruise: true
 rotateAtMidpoint: true
 canFly: true
@@ -354,6 +356,8 @@ harvesterBladeBlocks:
     - LADDER
     - COAL_BLOCK
     - CRAFTING_TABLE
+    - ANVIL
+    - JUKEBOX
     #weaponized ships only
     - END_STONE
     - END_STONE_BRICKS
@@ -524,6 +528,7 @@ harvesterBladeBlocks:
     - REPEATER
     - REDSTONE_TORCH
     - REDSTONE_WALL_TORCH
+    - REDSTONE_LAMP
     - STICKY_PISTON
     - TRIPWIRE_HOOK
     - SLIME_BLOCK
@@ -542,6 +547,7 @@ harvesterBladeBlocks:
     - JUNGLE_STAIRS
     - OAK_STAIRS
     - SPRUCE_STAIRS
+    - DARK_OAK_STAIRS
     #storage
     - CHEST
     - DROPPER
